@@ -24,9 +24,6 @@ Deploy the best Model, choosen by the Azure ML
 ![image](https://github.com/ksheriff82/nd00333_AZMLND_C2/assets/43680905/45b643fa-9e18-4f75-bc2d-ba85ce45bb71)
 
 
-Enable App insights for the model deployment
-![image](https://github.com/ksheriff82/nd00333_AZMLND_C2/assets/43680905/ae815a24-a6bb-4ae5-86fe-48d343110228)
-
 Logging shown in the terminal
 ![image](https://github.com/ksheriff82/nd00333_AZMLND_C2/assets/43680905/ac535c3f-7dd8-4d53-a2b6-991c438ab41a)
 
