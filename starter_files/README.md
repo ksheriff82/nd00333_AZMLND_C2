@@ -51,7 +51,7 @@ Publish Pipeline using http URL
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+https://photos.app.goo.gl/DodHATB59mK8XjQi8
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+The endpoint.py was not working as is, so I had to modify it by download the helper script provided the deployed model. It was useful for running the model for getting the results for given input. This can be be improved by providing a feedback to trigger the pipeline as we get more operational data. this would continuoly help to improve the model.
